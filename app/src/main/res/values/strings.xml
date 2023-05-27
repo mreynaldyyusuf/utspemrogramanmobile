@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">reynaldy_s_application2</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_hubungi_kami">Hubungi Kami</string>
+<string name="lbl_rp_508_000">Rp.508.000</string>
+<string name="lbl_hewan">Hewan</string>
+<string name="lbl_abraham_samad">Abraham Samad</string>
+<string name="lbl_legalitas">Legalitas</string>
+<string name="lbl_keluar">Keluar</string>
+<string name="msg_mau_bantu_siapa">Mau bantu siapa nih?</string>
+<string name="msg_warga_yogya_saa2">Warga Yogya saat ini sedang dilanda musibah longsor, warga kecamatan..... </string>
+<string name="lbl_28">28</string>
+<string name="lbl_keamanan">Keamanan</string>
+<string name="lbl_donasi_selesai">Donasi Selesai</string>
+<string name="msg_kampung_pulo_sa2">Kampung pulo saat ini sedang dilanda banjir, banjir 
+ini sudah berlangsung sejak....</string>
+<string name="msg_warga_yogya_saa">Warga Yogya saat ini sedang dilanda musibah longsor, warga kecamatan..... Baca selengkapnya </string>
+<string name="msg_baca_selengkapn2">Baca selengkapnya </string>
+<string name="lbl_lingkungan">Lingkungan</string>
+<string name="lbl_bantuan_medis">Bantuan Medis</string>
+<string name="lbl_total_donasi">Total Donasi</string>
+<string name="msg_pengaturan_noti">Pengaturan Notifikasi</string>
+<string name="msg_hubungkan_ewall">Hubungkan Ewallet</string>
+<string name="msg_donasi_korban_b">Donasi Korban Banjir Kampung Pulo</string>
+<string name="msg_ayo_bantu_korba">Ayo Bantu Korban Longsor Yogya</string>
+<string name="lbl_infrastruktur">Infrastruktur</string>
+<string name="msg_baca_selengkapn"> Baca selengkapnya </string>
+<string name="lbl_rumah_ibadah">Rumah Ibadah</string>
+<string name="lbl_difabel">Difabel</string>
+<string name="lbl_panti_asuhan">Panti Asuhan</string>
+<string name="lbl_balita">Balita</string>
+<string name="lbl_tampilan">Tampilan</string>
+<string name="lbl">.</string>
+<string name="lbl_zakat">Zakat</string>
+<string name="msg_kampung_pulo_sa">Kampung pulo saat ini sedang dilanda banjir, banjir 
+ini sudah berlangsung sejak..... Baca selengkapnya </string>
+</resources>
